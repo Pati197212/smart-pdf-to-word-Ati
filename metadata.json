@@ -1,0 +1,5 @@
+{
+  "name": "Smart PDF to Word AI",
+  "description": "An intelligent PDF to Word converter that uses Gemini AI to preserve layout and content structure while converting documents.",
+  "requestFramePermissions": []
+}
